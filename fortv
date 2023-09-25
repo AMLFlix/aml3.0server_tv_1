@@ -1,5 +1,538 @@
 [
   {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E01 - Burnt Food",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP01.mp4",
+    "key": "-Nf9BWUmc6dg32mnYvQ6"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E02 - Mount Rushmore",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP02.mp4",
+    "key": "-Nf9BXNVNMoo3S4WPPtg"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E03 - Oliver",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP03.mp4",
+    "key": "-Nf9BYN54gIsUQIETOjm"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E04 - Pipes",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP04.mp4",
+    "key": "-Nf9BZETIm_Ll2kOfIlF"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E05 - Point Three Percent",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP05.mp4",
+    "key": "-Nf9B_7bX8By7h4NU3ju"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E06 - Not Fake",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP06.mp4",
+    "key": "-Nf9BadGUwvbSVKMcI-T"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E07 - 22 Steps",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP07.mp4",
+    "key": "-Nf9BbRYK5DpZ4UwAMEh"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E08 - Apple",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP08.mp4",
+    "key": "-Nf9BchOj2UFpMQQ2ifu"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E09 - Intangibles",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP09.mp4",
+    "key": "-Nf9BddYbDAItbLvJJwa"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E10 - Sacrifice",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP10.mp4",
+    "key": "-Nf9BeVEUpyRqYZLNRl6"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E11 - Islands (1)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP11.mp4",
+    "key": "-Nf9BfTS7C4GvWb5g4zA"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E12 - Islands (2)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP12.mp4",
+    "key": "-Nf9BgFFe89hdoKe7eo5"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E13 - Seven Reasons",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP13.mp4",
+    "key": "-Nf9Bh5ajas5grB_xHhe"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E14 - She",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP14.mp4",
+    "key": "-Nf9Bi6DGPjW9uHkM5Iq"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E15 - Heartfelt",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP15.mp4",
+    "key": "-Nf9BiwitIn-E-YeqlpD"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E16 - Pain",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP16.mp4",
+    "key": "-Nf9BjqZzj1buMOoW5Fe"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E17 - Smile",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP17.mp4",
+    "key": "-Nf9BkheQ3uDLSuVYl52"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S01E18 - More",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/The.Good.Doctor.S01.EP18.mp4",
+    "key": "-Nf9BotvwSNhZur8GT_G"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E01 - Hello",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E01.Hello%20720P%20%7BCM%7D.mp4",
+    "key": "-Nf9BvoVaWHtOxxhX9OG"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E02 - Middle Ground",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E02.Middle.Ground%20720P%20%7BCM%7D.mp4",
+    "key": "-Nf9BwWD35MLUi4Ov2O3"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E03 - 36 Hours",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E03.36.Hours%20%7BCM%7D.mp4",
+    "key": "-Nf9BxNHvxbXZPInT4jg"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E04 - Tough Titmouse",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E04.Tough.Titmouse%20%7BCM%7D.mp4",
+    "key": "-Nf9ByL0UuOc2yNtdLrD"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E05 - Carrots",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E05.Carrots%20%7BCM%7D.mp4",
+    "key": "-Nf9BzUUm58y8j6WK3sH"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E06 - Two-Ply (or Not Two-Ply)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E06.Two-Ply.Part.or.Not.Two-Ply%20%7BCM%7D.mp4",
+    "key": "-Nf9C-Fe68bir2P8LEP3"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E07 - Hubert",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E07.Hubert%20%7BCM%7D.mp4",
+    "key": "-Nf9C08Ltg591voLrGHl"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E08 - Stories",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E08.Stories%20%7BCM%7D.mp4",
+    "key": "-Nf9C1-eCa5q8spWq7dH"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E09 - Empathy",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E09.Empathy%20%7BCM%7D.mp4",
+    "key": "-Nf9C1p4ZrujWQJ3MAul"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E10 - Quarantine (1)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E10.Quarantine%20%7BCM%7D.mp4",
+    "key": "-Nf9C2alhhCkMWthaAk_"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E11 - Quarantine (2)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E11.Quarantine.Part.2%20%7BCM%7D.mp4",
+    "key": "-Nf9C3NDJe0y1IIMzI3V"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E12 - Aftermath",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E12.Aftermath%20%7BCM%7D.mp4",
+    "key": "-Nf9C50ySrO7Zs9cwzh3"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E13 - Xin",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E13.Xin.%20%7BCM%7D.mp4",
+    "key": "-Nf9C6bRJyB5o7lZ3JXi"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E14 - Faces",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E14.Faces.%20%7BCM%7D.mp4",
+    "key": "-Nf9C7Oc2n1T5wUrsxEF"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E15 - Risk and Reward",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E15.Risk.and.Reward%20%7BCM%7D.mp4",
+    "key": "-Nf9C89jqrju3_tzn-q7"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E16 - Believe",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E16.Believe%20%7BCM%7D.mp4",
+    "key": "-Nf9C8uN8VWvD795xjff"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E17 - Breakdown",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E17.Breakdown%20%7BCM%7D.mp4",
+    "key": "-Nf9C9gOkF9JE0TUps5W"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S02E18 - Trampoline",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/_The.Good.Doctor.S02E18.Trampoline%20%7BCM%7D.mp4",
+    "key": "-Nf9CAOwdrzMAIqHwg5u"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E01 - Disaster",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E01.Disaster.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CE8-BhBQcS254CpM"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E02 - Debts",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E02.Debts.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CEs_o23klntcgvFs"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E03 - Claire",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E03.Claire.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CFb5lwPWjwEIcYFs"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E04 - Take My Hand",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E04.Episode.4.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CGc5yxaXYQbRtW1I"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E05 - First Case, Second Base",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E05.First.Case.Second.Base.REPACK.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CHUIM38api10C6MX"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E06 - 45-Degree Angle",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E06.45-Degree.Angle.720%20%7BCM%7D.mp4",
+    "key": "-Nf9CIF3Wfj_g1iFMZgW"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E07 - SFAD",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E07.SFAD.720%20%7BCM%7D.mp4",
+    "key": "-Nf9CIxsn5A9ZsoNt_y-"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E08 - Moonshot",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E08.Moonshot.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CJhkM8W1BpOZ9D-g"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E09 - Incomplete",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.good.doctor.s03e09.internal.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CKPP3q9kIy-ZJBBN"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E10 - Friends and Family",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E10.Friends.and.Family.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CL9aY8tXwZv4UIpv"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E11 - Fractured",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E11.Fractured.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CLtXxJlRrRwWaoMg"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E12 - Mutations",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E12.Mutations.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CMbEPPcmq_VfiDI9"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E13 - Sex and Death",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E13.iNTERNAL.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CNMxHnv9CdDUzT02"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E14 - Influence",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E14.Influence.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CO37moz1SJULPBBm"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E15 - Unsaid",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E15.Unsaid.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CPGUdRPidC9aQ-_a"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E16 - Autopsy",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E16.Autopsy.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CPzJ_CMVbp1BhFY9"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E17 - Fixation",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E17.Fixation.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CQhpI1hcbZgqSThu"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E18 - Heartbreak",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E18.iNTERNAL.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CRUVldDWLRLjYmjk"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E19 - Hurt (1)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.Good.Doctor.S03E19.Hurt%20720P%20%7BCM%7D.mp4",
+    "key": "-Nf9CSH6of6ikXWBeHwr"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S03E20 - I Love You (2)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S3/The.good.doctor.s03e20.internal.720p%20%7BCM%7D.mp4",
+    "key": "-Nf9CTD-NbSSFVswcQS-"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E01 - Frontline (1)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E01.mp4",
+    "key": "-Nf9CYM-sdzH4JHQskS6"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E02 - Frontline (2)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E02.mp4",
+    "key": "-Nf9CZ4DOPC2Nd8Pymc5"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E03 - Newbies",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E03.mp4",
+    "key": "-Nf9CZmvwtykp-SeBXpg"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E04 - Not the Same",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E04.mp4",
+    "key": "-Nf9C_YN-z1ADzZQHHQ6"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E05 - Fault",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E05.mp4",
+    "key": "-Nf9CaHUPCiXYGyIZFkG"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E06 - Lim",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E06.mp4",
+    "key": "-Nf9Cb1ZrzEX1ZM43dw_"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E07 - The Uncertainty Principle",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E07.mp4",
+    "key": "-Nf9CbguBr9SReqjV6Qv"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E08 - Parenting",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E08.mp4",
+    "key": "-Nf9CcOGQ256a3PZl8WB"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E09 - Irresponsible Salad Bar Practices",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E09.Irresponsible.Salad.Bar.Practices.1080p.CM.mp4",
+    "key": "-Nf9Cd4i6Ac9l2oQxpyY"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E10 - Decrypt",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E10.Decrypt.1080p.CM.mp4",
+    "key": "-Nf9CduOJ3cQOmJXSswj"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E11 - We\u0027re All Crazy Sometimes",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E11.mp4",
+    "key": "-Nf9CedkgWYuksWP1KyS"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E12 - Teeny Blue Eyes",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E12.mp4",
+    "key": "-Nf9CfNAGFSBHIzOBpLn"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E13 - Spilled Milk",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E13.mp4",
+    "key": "-Nf9CgB8lGR4qosbcIt2"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E14 - Gender Reveal",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E14.mp4",
+    "key": "-Nf9CgrRSsM5WXZoErkQ"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E15 - Waiting",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E15.mp4",
+    "key": "-Nf9ChVIamdbNH-2hUOv"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E16 - Dr. Ted",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E16.mp4",
+    "key": "-Nf9CiDwumscYf5YIVjt"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E17 - Letting Go",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E17.mp4",
+    "key": "-Nf9CiwvGeG9hXALnUUH"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E18 - Forgive or Forget",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E18.mp4",
+    "key": "-Nf9CjyOpmYG5RUTMdPp"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E19 - Venga (1)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E19.Venga.1080p.CM.mp4",
+    "key": "-Nf9CkmXUIHINAQttPGJ"
+  },
+  {
+    "Movie_Title": "The Good Doctor",
+    "name": "The Good Doctor - S04E20 - Vamos (2)",
+    "id": "1372.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/T/TheGoodDoctor-2017/S4/The.Good.Doctor.S04E20.mp4",
+    "key": "-Nf9Clc5oB4JMAkDcFOF"
+  },
+
+  {
     "Movie_Title": "Dangerous Romance",
     "name": "EPISODE 1",
     "id": "217861.0",

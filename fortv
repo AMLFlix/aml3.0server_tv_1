@@ -1,5 +1,206 @@
 [
   {
+    "Movie_Title": "The Worst of Evil",
+    "pushkey": "-Nh2SF3IIbrDwyRjSsf_",
+    "name": "The Worst of Evil - S01E09 - Episode 9",
+    "id": "1435.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/Korea/T/TheWorstOfEvil-2023/The.Worst.of.Evil%282023%29EP9.DNSP.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "The Worst of Evil",
+    "pushkey": "-Nh2SFxpGMJeLaFX-y9l",
+    "name": "The Worst of Evil - S01E08 - Episode 8",
+    "id": "1435.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/Korea/T/TheWorstOfEvil-2023/The.Worst.of.Evil%282023%29EP8.DNSP.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Tiger and Crane",
+    "pushkey": "-Nh2SNTrhBChb46z29vj",
+    "name": "Tiger and Crane - S01E34 - Episode 34",
+    "id": "1450.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/T/TigerAndCrane-2023/Tiger%20and%20Crane%20E34%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Tiger and Crane",
+    "pushkey": "-Nh2SOKOoJ5S9fVGf0bB",
+    "name": "Tiger and Crane - S01E33 - Episode 33",
+    "id": "1450.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/T/TigerAndCrane-2023/Tiger%20and%20Crane%20E33%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Tiger and Crane",
+    "pushkey": "-Nh2SPEq7Xvx5QNMgveQ",
+    "name": "Tiger and Crane - S01E32 - Episode 32",
+    "id": "1450.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/T/TigerAndCrane-2023/Tiger%20and%20Crane%20E32%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Tiger and Crane",
+    "pushkey": "-Nh2SQAA6qSz7yZJRZab",
+    "name": "Tiger and Crane - S01E31 - Episode 31",
+    "id": "1450.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/T/TigerAndCrane-2023/Tiger%20and%20Crane%20E31%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "The Bride of Naga",
+    "pushkey": "-Nh2SY8h5rtm4f7nmTDc",
+    "name": "The Bride of Naga - S01E14 - Episode 14",
+    "id": "1369.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/Thai/T/TheBrideOfNaga-2023/The.Bride.of.Naga.S01E14.720p.CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "The Bride of Naga",
+    "pushkey": "-Nh2SZ6VUq4FBEKSkzRa",
+    "name": "The Bride of Naga - S01E13 - Episode 13",
+    "id": "1369.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/Thai/T/TheBrideOfNaga-2023/The%20Bride.of.Naga.S01E13.720p.CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2Sx4re_RFOGyEK-bB",
+    "name": "Sullivan\u0027s Crossing - S01E10 - Sins of the Father",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E10.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2SyQc6Pe0SSO4Hs-6",
+    "name": "Sullivan\u0027s Crossing - S01E09 - Can\u0027t Help Falling",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E09.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2SzM3zkTQ0SYPDmT0",
+    "name": "Sullivan\u0027s Crossing - S01E08 - Aftershock",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E08.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T-MpL3f66PyG8k9C",
+    "name": "Sullivan\u0027s Crossing - S01E07 - Second Chances",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E07.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T0_8-Fw3CD15WX8B",
+    "name": "Sullivan\u0027s Crossing - S01E06 - Boiling Point",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E06.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T1Ut8azThgefRfOK",
+    "name": "Sullivan\u0027s Crossing - S01E05 - Pressure Drop",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E05.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T33TB_60EXQhZn94",
+    "name": "Sullivan\u0027s Crossing - S01E04 - Rock and a Hard Place",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E04.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T3uJhThAvd_qwugp",
+    "name": "Sullivan\u0027s Crossing - S01E03 - Detours",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E03.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T4ldwLFSzrI4YMVI",
+    "name": "Sullivan\u0027s Crossing - S01E02 - Homewrecker",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E02.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Sullivan\u0027s Crossing",
+    "pushkey": "-Nh2T5bkqge9KXZaT1Of",
+    "name": "Sullivan\u0027s Crossing - S01E01 - Coming Home",
+    "id": "1494.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/S/SullivansCrossing-2023/Sullivans.Crossing.S01E01.720p.HDTV%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Scent of Time",
+    "pushkey": "-Nh2TCUXqN340vVMfhPv",
+    "name": "Scent of Time - S01E14 - Episode 14",
+    "id": "1480.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/S/ScentOfTime-2023/Scent%20Of%20Time%20E14%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Scent of Time",
+    "pushkey": "-Nh2TDEGAbcYmmVHD-xP",
+    "name": "Scent of Time - S01E13 - Episode 13",
+    "id": "1480.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/S/ScentOfTime-2023/Scent%20of%20Time%20E13%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Scent of Time",
+    "pushkey": "-Nh2TE0gjVzUJoQtCVoV",
+    "name": "Scent of Time - S01E12 - Episode 12",
+    "id": "1480.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/China/S/ScentOfTime-2023/Scent%20Of%20Time%20E12%20720p%20WEB-DL%20CM.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Golden Boy",
+    "pushkey": "-Nh2TKtuWglkgoacp85v",
+    "name": "Episode - 52",
+    "id": "1467.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/G/GoldenBoy-2023/Golden%20Boy%282022%29EP52.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Golden Boy",
+    "pushkey": "-Nh2TLjUSCijwa50gEGI",
+    "name": "Episode - 51",
+    "id": "1467.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/G/GoldenBoy-2023/Golden%20Boy%282022%29EP51.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Golden Boy",
+    "pushkey": "-Nh2TMZCtwt5YiyhNuBr",
+    "name": "Episode - 50",
+    "id": "1467.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/G/GoldenBoy-2023/Golden%20Boy%282022%29EP50.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+  {
+    "Movie_Title": "Golden Boy",
+    "pushkey": "-Nh2TP5ev5AMdPDtTfAi",
+    "name": "Episode - 49",
+    "id": "1467.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Series/EnglishSeries/G/GoldenBoy-2023/Golden%20Boy%282022%29EP49.WEB-DL.720P%28CM%29.mp4",
+    "key": "normal"
+  },
+
+  {
     "Movie_Title": "Jujutsu Kaisen",
     "pushkey": "-Nh1mPUsbMpQYHXQbHLg",
     "name": "SEASON 2 | EP 12",
